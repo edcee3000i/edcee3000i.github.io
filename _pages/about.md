@@ -26,7 +26,7 @@ I will earn my PhD degree (June 2025)in Mechanical Engineering from [School of M
 My research interest includes **3D printing**, **flexible sensor**, **tribology**, and **surface engineering**. I have published more than 25 papers as the first/corresponding/co author at top-tier journals with total <a href='https://scholar.google.com/citations?user=dymuqyQAAAAJ'>google scholar citations <strong><span id='total_cit'>337</span></strong></a>.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 I won the title of “Academic Star of Xi'an Jiaotong University" (10 students in the whole school). 
+- *2024.12*: &nbsp;🎉🎉 I won the title of “Academic Star of Xi'an Jiaotong University". 
 
 
 # 📝 Publications 
