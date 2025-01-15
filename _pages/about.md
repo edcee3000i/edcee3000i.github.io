@@ -47,9 +47,9 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 
 # 🎖 Honors and Awards
 - *2024* National Scholarship
-- *2021* National Scholarship
-- *2024* [Xie Youbai](https://news.sciencenet.cn/htmlnews/2021/4/456446.shtm) Scholarship
-- *2019* National Scholarship
+- *2024* Academic Star of Xi'an Jiaotong University
+- *2024* Nomination for Outstanding Graduate Student of Xi'an Jiaotong University
+- *2024* [Xie Youbai](https://designscience.sjtu.edu.cn/Web/Content/11) Scholarship
 - *2021* University Graduate Excellence Award of Dalian
 
 # 📖 Educations
