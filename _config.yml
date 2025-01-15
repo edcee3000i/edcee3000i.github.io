@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zeyu Ma (马泽宇)"
-description              : "Visiting scholar at Purdue, PhD in Mechanical Engineering at Xi'an Jiaotong University. "
+title                    : "个人主页"
+description              : "见证成长"
 repository               : "Zeyu/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Zeyu Ma (马泽宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Visiting scholar at Purdue, PhD in Mechanical Engineering at Xi'an Jiaotong University."
+  location         : "West Lafayete, IN, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
