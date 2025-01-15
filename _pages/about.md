@@ -46,19 +46,16 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* National Scholarship
+- *2021* National Scholarship
+- *2024* [Xie Youbai](https://news.sciencenet.cn/htmlnews/2021/4/456446.shtm) Scholarship
+- *2019* National Scholarship
+- *2021* University Graduate Excellence Award of Dalian
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06*, Ph.D. (Supervisor: [Prof. Liguo Qin](https://gr.xjtu.edu.cn/en/web/liguoqin/)), [Xi'an Jiaotong University](https://en.xjtu.edu.cn), China
+- *2024.03 - 2025.03*, Visiting Ph.D. (Supervisor: [Assistant Professor. Alex Chortos](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=243743)), [Purdue University](https://www.purdue.edu/), USA
+- *2018.09 - 2021.06*, M.Sc. (Supervisor: Prof. Jiujun Xu), [Dalian Maritime University](https://en.dlmu.edu.cn), China
+- *2013.09 - 2017.06*, B.Eng., [Anhui University of Technology](https://en.ahut.edu.cn), China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
-# 🐾 Visitor Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tMl7ri3Q2RqfJWNCZtcnS59LlFoNCK1puzjt-BhZgk4&cl=ffffff&w=a"></script>
