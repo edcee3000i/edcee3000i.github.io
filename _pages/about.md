@@ -40,7 +40,7 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 **Zeyu Ma**, Demin Huang, Shan Lu, Evan Zhang, Yuhao Wu, Xiaodong Huang, Liguo Qin, Jun Li, Hong Yin
 
 [**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&citation_for_view=dymuqyQAAAAJ%3Au5HHmVD_uO8C&inst=5549692440350501774) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
-- Material Informatics & Data-Driven Design
+- Tribology
 </div>
 </div>
 
