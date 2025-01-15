@@ -17,30 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi guys,大家好！
+Welcome to my homepage！
 
-I am currently a visiting scholar at the [School of Mechanical Engineering](https://https://engineering.purdue.edu/ME) at [Purdue University](https://www.purdue.edu).
+I am currently a visiting PhD student at the [School of Mechanical Engineering](https://https://engineering.purdue.edu/ME) at [Purdue University](https://www.purdue.edu).
 
+I will earn my PhD degree (June 2025)in Mechanical Engineering from [School of Mechanical Engineering](https://mec-eng.xjtu.edu.cn/) at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in Xi'an, Shaanxi, China.
+
+My research interest includes **3D printing**, **flexible sensor**, **tribology**, and **surface engineering**. I have published more than 25 papers as the first/corresponding/co author at top-tier journals with total <a href='https://scholar.google.com/citations?user=dymuqyQAAAAJ'>google scholar citations <strong><span id='total_cit'>337</span></strong></a>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 I won the title of “Academic Star of Xi'an Jiaotong University" (10 students in the whole school). 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+**2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of tribology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Mitigating Low-Speed Crawling and Jitter in Telescopic Hydraulic Cylinders Through Stick-Slip Dynamics Analysis and Friction Reduction Strategies](https://asmedigitalcollection.asme.org/tribology/article-abstract/147/7/071701/1209744/Mitigating-Low-Speed-Crawling-and-Jitter-in?redirectedFrom=fulltext)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zeyu Ma**, Demin Huang, Shan Lu, Evan Zhang, Yuhao Wu, Xiaodong Huang, Liguo Qin, Jun Li, Hong Yin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&citation_for_view=dymuqyQAAAAJ%3Au5HHmVD_uO8C&inst=5549692440350501774) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
+- Material Informatics & Data-Driven Design
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
