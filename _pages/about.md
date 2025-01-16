@@ -62,7 +62,7 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 # 🎙️ Invited talks
 - *2021.09 - 2025.06*
 
-<span class='anchor' id='-internships'></span>
-# ⛏️ Internships
-Call me EDC，V我300块看看实力
+<span class='anchor' id='-notice'></span>
+# ⛏️ Notice
+Call me EDC，V我300看看实力
 
