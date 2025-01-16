@@ -39,21 +39,21 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 
 **Zeyu Ma**, Demin Huang, Shan Lu, Evan Zhang, Yuhao Wu, Xiaodong Huang, Liguo Qin, Jun Li, Hong Yin
 
-[**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&citation_for_view=dymuqyQAAAAJ%3Au5HHmVD_uO8C&inst=5549692440350501774) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
+[**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&citation_for_view=dymuqyQAAAAJ%3Au5HHmVD_uO8C&inst=5549692440350501774) 
 - Tribology
 </div>
 </div>
 
-**2025**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of tribology</div><img src='images/Journal of tribology 500x300.png' alt="sym" width="100%"></div></div>
+**2024**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Functional Materials</div><img src='images/AFM 500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mitigating Low-Speed Crawling and Jitter in Telescopic Hydraulic Cylinders Through Stick-Slip Dynamics Analysis and Friction Reduction Strategies](https://asmedigitalcollection.asme.org/tribology/article-abstract/147/7/071701/1209744/Mitigating-Low-Speed-Crawling-and-Jitter-in?redirectedFrom=fulltext)
+[Magnetically Assisted 3D Printing of Ultra‐Antiwear Flexible Sensor](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202406108)
 
 **Zeyu Ma**, Demin Huang, Shan Lu, Evan Zhang, Yuhao Wu, Xiaodong Huang, Liguo Qin, Jun Li, Hong Yin
 
-[**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&citation_for_view=dymuqyQAAAAJ%3Au5HHmVD_uO8C&inst=5549692440350501774) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
-- Tribology
+[**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&sortby=pubdate&citation_for_view=dymuqyQAAAAJ%3ASe3iqnhoufwC&inst=5549692440350501774) 
+- 3D printing flexible sensor
 </div>
 </div>
 
