@@ -32,7 +32,7 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 # 📝 Publications 
 
 **2025**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of tribology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of tribology</div><img src='images/Journal of tribology 500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mitigating Low-Speed Crawling and Jitter in Telescopic Hydraulic Cylinders Through Stick-Slip Dynamics Analysis and Friction Reduction Strategies](https://asmedigitalcollection.asme.org/tribology/article-abstract/147/7/071701/1209744/Mitigating-Low-Speed-Crawling-and-Jitter-in?redirectedFrom=fulltext)
@@ -58,4 +58,12 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 - *2018.09 - 2021.06*, M.Sc. (Supervisor: Prof. Jiujun Xu), [Dalian Maritime University](https://en.dlmu.edu.cn), China
 - *2013.09 - 2017.06*, B.Eng., [Anhui University of Technology](https://en.ahut.edu.cn), China
 
+<span class='anchor' id='-Invited talk'></span>
+
+# 🎙️ Invited talk
+- *2021.09 - 2025.06*, Ph.D. (Supervisor: [Prof. Liguo Qin](https://gr.xjtu.edu.cn/en/web/liguoqin/)), [Xi'an Jiaotong University](https://en.xjtu.edu.cn), China
+
+<span class='anchor' id='-Internships'></span>
+# ⛏️ Internships
+- *2021.09 - 2025.06*, Ph.D. (Supervisor: [Prof. Liguo Qin](https://gr.xjtu.edu.cn/en/web/liguoqin/)), [Xi'an Jiaotong University](https://en.xjtu.edu.cn), China
 
