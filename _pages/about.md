@@ -79,7 +79,7 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 # 📖 Educations
 - *2021.09 - 2025.06*, Ph.D. (Supervisor: [Prof. Liguo Qin](https://gr.xjtu.edu.cn/en/web/liguoqin/)), [Xi'an Jiaotong University](https://en.xjtu.edu.cn), China
 - *2024.03 - 2025.03*, Visiting Ph.D. (Supervisor: [Assistant Professor. Alex Chortos](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=243743)), [Purdue University](https://www.purdue.edu/), USA
-- *2018.09 - 2021.06*, M.Sc. (Supervisor: Prof. Jiujun Xu), [Dalian Maritime University](https://en.dlmu.edu.cn), China
+- *2018.09 - 2021.06*, M.Sc. (Supervisor: [Prof. Jiujun Xu](https://jt.dlmu.edu.cn/info/1041/2631.htm）), [Dalian Maritime University](https://en.dlmu.edu.cn), China
 - *2013.09 - 2017.06*, B.Eng., [Anhui University of Technology](https://en.ahut.edu.cn), China
 
 <span class='anchor' id='-invited-talks'></span>
