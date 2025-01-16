@@ -39,7 +39,7 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 
 **Zeyu Ma**, Demin Huang, Shan Lu, Evan Zhang, Yuhao Wu, Xiaodong Huang, Liguo Qin, Jun Li, Hong Yin
 
-[**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&citation_for_view=dymuqyQAAAAJ%3Au5HHmVD_uO8C&inst=5549692440350501774) 
+[**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&sortby=pubdate&citation_for_view=dymuqyQAAAAJ%3A_kc_bZDykSQC&inst=5549692440350501774) 
 - Tribology
 </div>
 </div>
@@ -50,10 +50,22 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 
 [Magnetically Assisted 3D Printing of Ultra‐Antiwear Flexible Sensor](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202406108)
 
-**Zeyu Ma**, Demin Huang, Shan Lu, Evan Zhang, Yuhao Wu, Xiaodong Huang, Liguo Qin, Jun Li, Hong Yin
+**Zeyu Ma**, Yuhao Wu, Shan Lu, Jianing Li, Jianbo Liu, Xiaodong Huang, Xiaodong Zhang, Yin Zhang, Guangneng Dong, Liguo Qin, Sen Yang
 
 [**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&sortby=pubdate&citation_for_view=dymuqyQAAAAJ%3ASe3iqnhoufwC&inst=5549692440350501774) 
 - 3D printing flexible sensor
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Functional Materials</div><img src='images/AFM 500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D printing in biofabrication: From surface textures to biological engineering](https://www.sciencedirect.com/science/article/abs/pii/S1385894724079683)
+
+**Zeyu Ma**, Jue Wang, Liguo Qin, Alex Chortos
+
+[**Topic**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=dymuqyQAAAAJ&sortby=pubdate&citation_for_view=dymuqyQAAAAJ%3A8k81kl-MbHgC&inst=5549692440350501774) 
+- 3D printing in biofabrication
 </div>
 </div>
 
