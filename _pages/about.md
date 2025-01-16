@@ -23,7 +23,7 @@ I am currently a visiting PhD student at the [School of Mechanical Engineering](
 
 I will earn my PhD degree (June 2025)in Mechanical Engineering from [School of Mechanical Engineering](https://mec-eng.xjtu.edu.cn/) at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in Xi'an, Shaanxi, China.
 
-My research interest includes **3D printing**, **flexible sensor**, **tribology**, and **surface engineering**. I have published more than 25 papers as the first/corresponding/co author at top-tier journals with total <a href='https://scholar.google.com/citations?user=dymuqyQAAAAJ'>google scholar citations <strong><span id='total_cit'>337</span></strong></a>.
+My research interest includes **3D printing**, **flexible sensor**, **tribology**, and **surface engineering**. I have published more than 25 papers as the first/corresponding/co author at top-tier journals with total <a href='https://scholar.google.com/citations?user=dymuqyQAAAAJ'>google scholar citations <strong><span id='total_cit'>339</span></strong></a>.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I won the title of “Academic Star of Xi'an Jiaotong University". 
