@@ -60,7 +60,8 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 
 <span class='anchor' id='-invited-talks'></span>
 # 🎙️ Invited talks
-- *2021.09 - 2025.06*
+- *2023.12.16*，2023 Annual Meeting of the Tribology Division of the Shaanxi Society of Mechanical Engineering and the 3rd Huashan Tribology Forum，Xi'an，China
+- *2023.07.07 - 2023.07.10*，Chinese Materials Conference 2022-2023，Shenzhen，China
 
 <span class='anchor' id='-notice'></span>
 # ⛏️ Notice
