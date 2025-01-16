@@ -60,9 +60,9 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 
 <span class='anchor' id='-invited talk'></span>
 # 🎙️ Invited talk
-- *2021.09 - 2025.06*, Ph.D. (Supervisor: [Prof. Liguo Qin](https://gr.xjtu.edu.cn/en/web/liguoqin/)), [Xi'an Jiaotong University](https://en.xjtu.edu.cn), China
+- *2021.09 - 2025.06*
 
 <span class='anchor' id='-internships'></span>
 # ⛏️ Internships
-- *2021.09 - 2025.06*, Ph.D. (Supervisor: [Prof. Liguo Qin](https://gr.xjtu.edu.cn/en/web/liguoqin/)), [Xi'an Jiaotong University](https://en.xjtu.edu.cn), China
+- *2021.09 - 2025.06*
 
