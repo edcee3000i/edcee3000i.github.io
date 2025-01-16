@@ -57,7 +57,7 @@ My research interest includes **3D printing**, **flexible sensor**, **tribology*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Functional Materials</div><img src='images/AFM 500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chemical Engineering Journal</div><img src='images/CEJ 500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D printing in biofabrication: From surface textures to biological engineering](https://www.sciencedirect.com/science/article/abs/pii/S1385894724079683)
