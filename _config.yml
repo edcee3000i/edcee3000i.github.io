@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zeyu Ma (马泽宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Visiting scholar at Purdue, PhD in Mechanical Engineering at Xi'an Jiaotong University."
-  location         : "West Lafayete, IN, USA"
-  employer         : "Purdue University"
+  bio              : "PhD in Mechanical Engineering at Xi'an Jiaotong University."
+  location         : "Xi'an, Shaanxi, CHINA"
+  employer         : "Xi'an Jiaotong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dymuqyQAAAAJ"
   email            : "ma901@purdue.edu"
